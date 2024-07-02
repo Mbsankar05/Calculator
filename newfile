@@ -1,1 +1,5 @@
-hello sankar
+name ="sankar"
+ if name=="sankar"{
+     print ("hi sankar)}
+else{
+print("error")
